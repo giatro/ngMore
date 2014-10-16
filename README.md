@@ -12,6 +12,7 @@ AngularJS directive to show/hide too long content
 /* my-app.js */
 angular.module('myApp',['ngMore']);
 ```
+
 ```html
 <html ng-app="myApp">
 <head>
