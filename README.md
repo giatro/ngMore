@@ -1,6 +1,6 @@
 # ngMore directive
 
-AngularJS directive to show/hide too long content
+AngularJS directive to hide and show contents that are too long.
 
 [Example](http://codepen.io/giatro/full/GJpln/) | See the Pen [ngMore directive](http://codepen.io/giatro/pen/GJpln/) on [CodePen](http://codepen.io).
 
