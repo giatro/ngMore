@@ -1,4 +1,3 @@
-angular.module('myApp',['ngMore']);
 angular.module('ngMore',[])
 .directive('ngMore',function($window){
 	return {
