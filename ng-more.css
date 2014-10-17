@@ -1,7 +1,7 @@
 .ng-more {
   position: relative;
 }
-.ng-more .more {
+.ng-more .ng-more-more {
   cursor: pointer;
   text-align: center;
   line-height: 1.5em;
@@ -10,13 +10,13 @@
   background-repeat: repeat-x;
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00ffffff', endColorstr='#ffffffff', GradientType=0);
 }
-.ng-more .more.hide {
+.ng-more .ng-more-more.ng-more-hide {
   display: none;
 }
-.ng-more.collapsed {
+.ng-more.ng-more-collapsed {
   overflow: hidden;
 }
-.ng-more.collapsed .more {
+.ng-more.ng-more-collapsed .ng-more-more {
   padding: 3em 0 0.2em 0;
   width: 100%;
   position: absolute;
