@@ -1,0 +1,22 @@
+{
+  "name": "ngMore",
+  "version": "0.0.0",
+  "authors": [
+    "Gianluca Troiani <gianluca.troiani@gmail.com>"
+  ],
+  "description": "AngularJS directive to hide and show contents that are too long",
+  "keywords": [
+    "AngularJS"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "~4.3.0"
+  }
+}
