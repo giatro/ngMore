@@ -9,6 +9,7 @@
     "AngularJS"
   ],
   "license": "MIT",
+  "main": ["ng-more.js","ng-more.min.css"],
   "ignore": [
     "**/.*",
     "node_modules",
